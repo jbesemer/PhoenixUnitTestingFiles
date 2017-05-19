@@ -3,10 +3,10 @@
 
 # Project-specific files & folders
 
-"Data 2-28-2014 1.04.46 PM.csv*"
-"Data 3-11-2014 5.36.34 PM.csv*"
-"Data 3-11-2014 5.53.09 PM.csv*"
-"Data 3-12-2014 2.38.50 PM.csv*"
+"Data 2-28-2014 1.04.46 PM.csv"
+"Data 3-11-2014 5.36.34 PM.csv"
+"Data 3-11-2014 5.53.09 PM.csv"
+"Data 3-12-2014 2.38.50 PM.csv"
 
 # User-specific files
 *.suo
