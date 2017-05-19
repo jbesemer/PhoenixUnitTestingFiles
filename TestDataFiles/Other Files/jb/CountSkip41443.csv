@@ -1,0 +1,9 @@
+Meter S/N:"REV_FA_2"
+SensorThermoSingleHorst1D V2
+Date3/23/2015 5:33:39 PM
+UnitsW
+TimestampMeasurementSequenceFlagsFlags (interpreted)Period
+4.0000000, 5.73269E+006, 0, 16, OverRange, 0
+8.0000512, 4.21291E+006, 0, 16, OverRange, 0
+12.0001024, 3.78809E+006, 0, 16, OverRange, 0
+16.0001536, 5.73229E+006, 0, 272, OverRange| MissingSamples, 0

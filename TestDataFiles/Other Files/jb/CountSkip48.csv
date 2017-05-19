@@ -1,0 +1,6 @@
+Meter S/N:, "REV_FA_2"
+Sensor, Thermo, Single, Horst, 1D V2
+Date, 3/17/2015 3:30:59 PM
+Units, W
+Timestamp, Measurement, Sequence, Flags, Flags (interpreted), Period
+4.0000000, 3.79634E+006, 0, 48, OverrangeOrUnderrange, 0

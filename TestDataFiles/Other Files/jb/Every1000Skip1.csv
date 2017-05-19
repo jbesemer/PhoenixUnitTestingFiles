@@ -1,0 +1,10 @@
+Meter S/N:, None
+Sensor, None, None, , 
+Date, 2/20/2015 12:01:25 AM
+Units, W
+Timestamp, Measurement, Sequence, Flags, Flags (interpreted), Period
+1.0000384, 9.789242E+000, 1000038, 33, TriggerDetected| UnderRange, 0
+2.0001280, 8.865783E+000, 2000128, 33, TriggerDetected| UnderRange, 0
+3.0002176, 1.883954E+002, 3000218, 16, OverRange, 0
+4.0003072, 4.247558E+000, 4000307, 32, UnderRange, 0
+5.0003968, 4.255651E+000, 5000397, 32, UnderRange, 0

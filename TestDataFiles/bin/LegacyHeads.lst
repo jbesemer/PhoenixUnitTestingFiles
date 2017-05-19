@@ -1,0 +1,104 @@
+::: 64bit.csv :::
+Meter S/N:, ERR-100
+Sensor, THERMO,SINGLE, 585
+Date, 11/7/2013 7:35:50 PM
+Timestamp, Measurement, PulsePeriod(uSec) 
+00.001470, 0.0014647, 0
+00.002940, 0.001499248, 0
+
+::: aa-original.csv :::
+Meter S/N: Not_Serialized,
+Sensor S/N: 1068,
+MON JUL  8 11:11:04 2013,
+Measurement,PulsePeriod(usec)
+-1.4586374E-04,         0
+-1.3208711E-04,         0
+
+::: aa.csv :::
+Meter S/N: Not_Serialized,
+Sensor S/N: 1068,
+MON JUL  8 11:11:04 2013,
+Measurement,PulsePeriod(usec)
+-1.4586374E-04,         0
+-1.3208711E-04,         0
+
+::: big1.csv :::
+Meter S/N:, ERR-100
+Sensor, THERMO,SINGLE, 1
+Date, 11/8/2013 8:13:59 PM
+Timestamp, Measurement, PulsePeriod(uSec) 
+00.001470, 2.161566, 1680
+00.002940, 1.486724, 1730
+
+::: bolix.csv :::
+Meter S/N:, ERR-100
+Sensor, THERMO,SINGLE, 585
+Date, 11/7/2013 7:22:05 PM
+Timestamp, Measurement, PulsePeriod(uSec) 
+00.001470, 0.001516522, 0
+00.002940, 0, 0
+
+::: circ2.csv :::
+Meter S/N:, ERR-100
+Sensor, THERMO,SINGLE, JMAXX
+Date, 11/25/2013 7:27:32 PM
+Timestamp, Measurement, PulsePeriod(uSec) 
+0.064154, 1.085275, 578570
+0.064205, 1.081908, 578610
+
+::: circ3.csv :::
+Meter S/N:, ERR-100
+Sensor, THERMO,SINGLE, JMAXX
+Date, 11/25/2013 7:45:57 PM
+Timestamp, Measurement, PulsePeriod(uSec) 
+0.000051, 1.077439, 120
+0.000102, 1.085794, 160
+
+::: circ4.csv :::
+Meter S/N:, ERR-100
+Sensor, THERMO,SINGLE, JMAXX
+Date, 11/26/2013 2:09:57 PM
+Timestamp, Measurement, PulsePeriod(uSec) 
+0.078643, 1.99266, 97420
+0.078694, 1.84915, 97480
+
+::: circ5.csv :::
+Meter S/N:, ERR-100
+Sensor, THERMO,SINGLE, JMAXX
+Date, 11/26/2013 4:03:07 PM
+Timestamp, Measurement, PulsePeriod(uSec) 
+0.069274, -1.137882, 608460
+0.069325, -1.101707, 608500
+
+::: circ6.csv :::
+Meter S/N:, ERR-100
+Sensor, THERMO,SINGLE, JMAXX
+Date, 11/26/2013 4:34:38 PM
+Timestamp, Measurement, PulsePeriod(uSec) 
+0.194560, -2.544169, 4271990
+0.194611, -2.635661, 4277580
+
+::: SlowChannel_PM10_statistics validation.csv :::
+Meter S/N:,Phoenix SN11,
+Sensor,PM10, None
+OBIS 445 40,ENB0116,
+Date, 12/20/2013 3:14:56 PM,
+Timestamp, Measurement, PulsePeriod(uSec) 
+0.1,0.0403604,0
+
+::: splitelectrode2.csv :::
+Meter S/N:," ""0479F14R""",,,,,,,
+Sensor, THERMO,,,,,,,
+Date, 7/1/2014 4:01:24 PM,,,,,,,
+Units, W,,,,,,,
+Timestamp, Measurement, Flags (interpreted),,,,,,
+0,0.049919184,0,,,,,,
+
+::: test1.csv :::
+Meter S/N:, [None]
+Sensor, None, None
+Date, 12/10/2013 4:41:06 PM
+Timestamp, Measurement, PulsePeriod(uSec) 
+3.513805, 6.99700307846069, 3513860
+3.513856, 5.37855195999146, 3513900
+

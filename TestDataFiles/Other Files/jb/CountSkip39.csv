@@ -1,0 +1,8 @@
+Meter S/N:, "REV_FA_2"
+Sensor, Thermo, Quad, x1, LM-20 QUAD HD
+Date, 3/11/2015 5:38:23 PM
+Units, W
+Timestamp, Measurement, X, Y, Sequence, Flags, Flags (interpreted), Period
+4.0000000, 3.55454E-001, 0.000, 0.000, 0, 0, 0, 0
+8.1000000, 3.53107E-001, 0.000, 0.000, 0, 0, 0, 0
+12.2000000, 3.56859E-001, 0.000, 0.000, 0, 0, 0, 0

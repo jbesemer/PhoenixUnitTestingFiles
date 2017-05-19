@@ -1,0 +1,806 @@
+Header,Meter,Sensor,Date,Extra,Errors,Filename
+S,S,S,Y,6,,.\10usec.csv
+N,N,N,N,0,,.\audit.csv
+S,S,S,Y,2,,.\Broken Files\10 kHz - 15 usec pulses CO2 Snapshot J5 - Broken.csv
+S,S,S,Y,2,,.\Broken Files\AllZeros.csv
+S,S,S,Y,2,,.\Broken Files\AllZerosQuad.csv
+S,S,S,Y,2,,.\Broken Files\CountMean.csv
+N,N,N,N,0,,.\Broken Files\CountMean4.csv
+N,N,N,N,0,,.\Broken Files\CountMean5.csv
+N,N,N,N,0,,.\Broken Files\CountSkip34.csv
+N,N,N,N,0,,.\Broken Files\CountSkip35.csv
+N,N,N,N,0,,.\Broken Files\CountSkip36.csv
+N,N,N,N,0,,.\Broken Files\million (no header).csv
+S,S,S,Y,2,,.\Broken Files\TimeMean.csv
+S,S,S,Y,2,,.\Broken Files\TimeMean1.csv
+S,S,S,Y,2,,.\Broken Files\TimeMean2.csv
+S,S,S,Y,2,,.\Broken Files\TimeSkip.csv
+S,S,S,Y,2,,.\Huge Files\CountSkip242.csv
+S,S,S,Y,1,,.\Huge Files\Data 2-28-2014 1.04.46 PM.csv
+S,S,S,Y,1,,.\Huge Files\Data 3-11-2014 5.36.34 PM.csv
+S,S,S,Y,1,,.\Huge Files\Data 3-11-2014 5.53.09 PM.csv
+S,S,S,Y,1,,.\Huge Files\Data 3-12-2014 2.38.50 PM.csv
+S,S,S,Y,2,,.\Huge Files\half-million.csv
+S,S,S,Y,2,,.\Huge Files\million.csv
+S,S,S,Y,2,,.\Huge Files\Million2.csv
+S,S,S,Y,2,,.\Huge Files\quarter-million.csv
+S,S,S,Y,1,,.\Legacy Files\64bit.csv
+Y,S,S,N,1,,.\Legacy Files\aa-original.csv
+Y,S,S,N,1,,.\Legacy Files\aa.csv
+S,S,S,Y,1,,.\Legacy Files\big1.csv
+S,S,S,Y,1,,.\Legacy Files\bolix.csv
+S,S,S,Y,1,,.\Legacy Files\circ2.csv
+S,S,S,Y,1,,.\Legacy Files\circ3.csv
+S,S,S,Y,1,,.\Legacy Files\circ4.csv
+S,S,S,Y,1,,.\Legacy Files\circ5.csv
+S,S,S,Y,1,,.\Legacy Files\circ6.csv
+S,S,S,N,2,,.\Legacy Files\SlowChannel_PM10_statistics validation.csv
+S,S,S,Y,2,,.\Legacy Files\splitelectrode2.csv
+S,S,S,Y,1,,.\Legacy Files\test1.csv
+N,N,N,N,0,,.\Non-LabMax Files\20150119_Feature.csv
+N,N,N,N,0,,.\Non-LabMax Files\AcousticPlots.csv
+N,N,N,N,0,,.\Non-LabMax Files\Benchmark.84a3.csv
+N,N,N,N,0,,.\Non-LabMax Files\D0_S_24mA.csv
+N,N,N,N,0,,.\Non-LabMax Files\modes.csv
+N,N,N,N,0,,.\Non-LabMax Files\pin_to_atom_mapping.csv
+N,N,N,N,0,,.\Non-LabMax Files\RealEstateAgency.csv
+N,N,N,N,0,,.\Non-LabMax Files\sample.csv
+N,N,N,N,0,,.\Non-LabMax Files\sample2.csv
+N,N,N,N,0,,.\Non-LabMax Files\SampleStrings (2).csv
+N,N,N,N,0,,.\Non-LabMax Files\SampleStrings (3).csv
+N,N,N,N,0,,.\Non-LabMax Files\SampleStrings (4).csv
+N,N,N,N,0,,.\Non-LabMax Files\SampleStrings.csv
+N,N,N,N,0,,.\Non-LabMax Files\scan_operation.csv
+N,N,N,N,0,,.\Non-LabMax Files\Telemetry.csv
+N,N,N,N,0,,.\Non-LabMax Files\term.csv
+N,N,N,N,0,,.\Non-LabMax Files\test_iface.csv
+N,N,N,N,0,,.\Non-LabMax Files\TIMESTAMP_TEST.csv
+N,N,N,N,0,,.\Non-LabMax Files\TradeTicks (2).csv
+N,N,N,N,0,,.\Non-LabMax Files\TradeTicks (3).csv
+N,N,N,N,0,,.\Non-LabMax Files\TradeTicks.csv
+N,N,N,N,0,,.\Non-LabMax Files\tzData.csv
+N,N,N,N,0,,.\Non-LabMax Files\UpdateList.csv
+N,N,N,N,0,,.\Non-LabMax Files\upload76.csv
+N,N,N,N,0,,.\Non-LabMax Files\usagedata.csv
+N,N,N,N,0,,.\Other Files\001 10ms single shot 20150515-1_truncated.csv
+S,S,S,Y,2,,.\Other Files\1 kHz - 500 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\10 kHz - 10 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\10 kHz - 15 usec pulses CO2 Snapshot J5.csv
+S,S,S,Y,1,,.\Other Files\100 Hz - 1 msec pulses - 5W avg power - CO2 Snapshot.csv
+S,S,S,Y,1,,.\Other Files\100W 30 ms long pulse-810 nm High Speed Mode.csv
+S,S,S,Y,1,,.\Other Files\140mW 10 ms 50 percent duty cycle.csv
+S,S,S,Y,1,,.\Other Files\15W-1msec_with trapezoidal area calculation.csv
+S,S,S,Y,2,,.\Other Files\2 kHz - 50 usec pulses CO2 Snapshot J5.csv
+S,S,S,Y,2,,.\Other Files\200Hz - 200 usec pulses CO2 Snapshot J5.csv
+S,S,S,Y,2,,.\Other Files\5 kHz - 50 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\8 kHz - 10 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\8 kHz - 50 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\CountMean1.csv
+S,S,S,Y,2,,.\Other Files\CountMean2.csv
+S,S,S,Y,2,,.\Other Files\CountMean3.csv
+S,S,S,Y,2,,.\Other Files\CountSkip30.csv
+S,S,S,Y,2,,.\Other Files\GEM100@25KHz_20uSec_Pulsewidth_PreTrig_11mSec_Truncated (2).csv
+S,S,S,Y,2,,.\Other Files\GEM100@25KHz_20uSec_Pulsewidth_PreTrig_11mSec_Truncated.csv
+S,S,S,Y,2,,.\Other Files\J-10MT data.csv
+S,S,S,Y,2,,.\Other Files\K250@10KHz_30W_truncated.csv
+S,S,S,Y,2,,.\Other Files\LM-2 data.csv
+S,S,S,Y,2,,.\Other Files\LM-3 data.csv
+S,S,S,Y,2,,.\Other Files\Standard Mode with HD Sensor.csv
+S,S,S,Y,2,,.\Other Files\Data\1 kHz - 10 percent duty cycle.csv
+S,S,S,Y,1,,.\Other Files\Data\100 Hz 10 percent.csv
+S,S,S,Y,1,,.\Other Files\Data\15W-1msec.csv
+S,S,S,Y,2,,.\Other Files\Data\160 usec 1 kHz low power.csv
+S,S,S,Y,2,,.\Other Files\Data\25 kHz - 10 percent duty cycle.csv
+S,S,S,Y,2,,.\Other Files\Data\25 kHz - 10usec.csv
+S,S,S,Y,1,,.\Other Files\Data\250mW-5msec.csv
+S,S,S,Y,1,,.\Other Files\Data\4W-500usec.csv
+S,S,S,Y,2,,.\Other Files\Data\baseline noise snapshot.csv
+S,S,S,Y,2,,.\Other Files\Data\baseline noise standard mode.csv
+S,S,S,Y,2,,.\Other Files\Data\High Speed Export.csv
+S,S,S,Y,2,,.\Other Files\Data\laser pointer pulse.csv
+S,S,S,Y,2,,.\Other Files\Data\Aesclepion\1 Hz - 2 Jcm2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\Data\Aesclepion\4 Jcm2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\Data\Aesclepion\No Gain Sensor\2 Jcm2 full snapshot.csv
+S,S,S,Y,2,,.\Other Files\Data\Aesclepion\No Gain Sensor\2 Jcm2 high speed mode.csv
+S,S,S,Y,2,,.\Other Files\Data\Aesclepion\No Gain Sensor\2Jcm2 erbium.csv
+S,S,S,Y,2,,.\Other Files\Data\Aesclepion\No Gain Sensor\4Jcm2 erbium.csv
+S,S,S,Y,2,,.\Other Files\Data\Aesclepion\No Gain Sensor\7 Jcm2 full snapshot.csv
+S,S,S,Y,2,,.\Other Files\Data\Aesclepion\No Gain Sensor\7 Jcm2 high speed mode.csv
+S,S,S,Y,2,,.\Other Files\Data\Aesclepion\No Gain Sensor\7Jcm2 erbium high speed.csv
+S,S,S,Y,2,,.\Other Files\Data\Aesclepion\No Gain Sensor\7Jcm2 erbium.csv
+S,S,S,Y,2,,.\Other Files\Data\Aesclepion\No Gain Sensor\Magnum laser 50 percent duty cycle with correct power - Snapshot.csv
+S,S,S,Y,2,,.\Other Files\Data\Candela\Candela2.csv
+S,S,S,Y,2,,.\Other Files\Data\Candela\Candela3.csv
+S,S,S,Y,2,,.\Other Files\Data\Candela\Candela4.csv
+S,S,S,Y,2,,.\Other Files\Data\Candela\Candela\10J 755nm four pulse burst.csv
+S,S,S,Y,2,,.\Other Files\Data\Candela\Candela\35J 755nm four pulse burst ENB064.csv
+S,S,S,Y,2,,.\Other Files\Data\Candela\Candela\35JJ 1064nm four pulse burst ENB065.csv
+S,S,S,Y,2,,.\Other Files\Data\Candela\Candela\test.csv
+S,S,S,Y,2,,.\Other Files\Data\Convergent\convergent-100us.csv
+S,S,S,Y,2,,.\Other Files\Data\Convergent\convergent-12us.csv
+S,S,S,Y,2,,.\Other Files\Data\Convergent\convergent-15us.csv
+S,S,S,Y,2,,.\Other Files\Data\Convergent\convergent-20us.csv
+S,S,S,Y,2,,.\Other Files\Data\Convergent\convergent-30us.csv
+S,S,S,Y,2,,.\Other Files\Data\Convergent\convergent-50us.csv
+S,S,S,Y,2,,.\Other Files\Data\Convergent\convergent-70us.csv
+S,S,S,Y,2,,.\Other Files\Data\Cynosure\Cynosure 100 ms 10 - 2.6 hz - J per cm2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\Data\Cynosure\Coherent PowerMax Pro\Cynosure 100 ms 10 - 2.6 hz - J per cm2 High Speed Mode.csv
+S,S,S,Y,2,,.\Other Files\Data\Cynosure\Coherent PowerMax Pro\Cynosure 50 ms - 10 J per cm2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\Data\Dingyin\001 10ms single shot 20150515-1 (1).csv
+S,S,S,Y,2,,.\Other Files\Data\Dingyin\001 10ms single shot 20150515-1.csv
+N,N,N,N,0,,.\Other Files\Data\Dingyin\001 10ms single shot 20150515-1_truncated (1).csv
+N,N,N,N,0,,.\Other Files\Data\Dingyin\001 10ms single shot 20150515-1_truncated.csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\1 kHz - 500 usec pulses CO2 Snapshot (1).csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\1 kHz - 500 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\10 kHz - 10 usec pulses CO2 Snapshot (1).csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\10 kHz - 10 usec pulses CO2 Snapshot.csv
+S,S,S,Y,1,,.\Other Files\Data\Good Examples\100 Hz - 1 msec pulses - 5W avg power - CO2 Snapshot (1).csv
+S,S,S,Y,1,,.\Other Files\Data\Good Examples\100 Hz - 1 msec pulses - 5W avg power - CO2 Snapshot.csv
+S,S,S,Y,1,,.\Other Files\Data\Good Examples\100W 30 ms long pulse-810 nm High Speed Mode (1).csv
+S,S,S,Y,1,,.\Other Files\Data\Good Examples\100W 30 ms long pulse-810 nm High Speed Mode.csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\5 kHz - 50 usec pulses CO2 Snapshot (1).csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\5 kHz - 50 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\8 kHz - 10 usec pulses CO2 Snapshot (1).csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\8 kHz - 10 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\8 kHz - 50 usec pulses CO2 Snapshot (1).csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\8 kHz - 50 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\Joues data (1).csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\Joues data.csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\Standard Mode with HD Sensor (1).csv
+S,S,S,Y,2,,.\Other Files\Data\Good Examples\Standard Mode with HD Sensor.csv
+S,S,S,Y,2,,.\Other Files\Data\Jetec\PowerCheck_PowerMax Pro_Jetec.csv
+S,S,S,Y,2,,.\Other Files\Data\LG\snap.csv
+S,S,S,Y,2,,.\Other Files\Data\LightSheer PMP data\test 1 - 24 J - 20 ms - - 810.csv
+S,S,S,Y,2,,.\Other Files\Data\LightSheer PMP data\test 2 - 20 J - 400 ms - 810.csv
+S,S,S,Y,2,,.\Other Files\Data\LightSheer PMP data\test 3 - 14 J - 15 ms - 810.csv
+S,S,S,Y,2,,.\Other Files\Data\LightSheer PMP data\test 4-5 - 30.7 J - 400 ms - - 810.csv
+S,S,S,Y,2,,.\Other Files\Data\LightSheer PMP data\test 6 - 24 J - 20 ms - 810.csv
+S,S,S,Y,2,,.\Other Files\Data\LightSheer PMP data\test 7 - 24 J - 20 ms -  810.csv
+S,S,S,Y,2,,.\Other Files\Data\LightSheer PMP data\test 8 - 5 shots - 400 ms J.csv
+S,S,S,Y,1,,.\Other Files\Data\Lumenis\LSDuet-5 ms long pulses-810 nm.csv
+S,S,S,Y,1,,.\Other Files\Data\Lumenis\M22-3 2ms long pulses-5ms-spacing-8K saples.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@10KHz_10uSec_Pulsewidth_PreTrig_11mSec.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@10KHz_50uSec_Pulsewidth_PreTrig_11mSec.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@10KHz_90uSec_Pulsewidth_PreTrig_11mSec.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@1KHz_100uSec_Pulsewidth.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@1KHz_100uSec_Pulsewidth_PreTrig_11mSec_4thshot,5min_aging.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@1KHz_900uSec_Pulsewidth_PreTrig_11mSec.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@25KHz_20uSec_Pulsewidth_PreTrig_11mSec.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@25KHz_36uSec_Pulsewidth_PreTrig_11mSec.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@25KHz_4uSec_Pulsewidth.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@one_Scribe_00.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@one_Scribe_01.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@one_Scribe_03.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@one_Scribe_04.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@one_Scribe_05.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\GEM100@one_Scribe_06.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\K250@10KHz_30W.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\K250@10KHz_30W_truncated.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\K250@10KHz_70W.csv
+S,S,S,Y,2,,.\Other Files\Data\MDi\MDi_GEM100_K250_Scriber_test_20140411\K250@25KHz_70W.csv
+S,S,S,Y,2,,.\Other Files\Data\Panasonic\10 kHz - 15 usec pulses CO2 Snapshot J5.csv
+S,S,S,Y,2,,.\Other Files\Data\Panasonic\2 kHz - 50 usec pulses CO2 Snapshot J5.csv
+S,S,S,Y,2,,.\Other Files\Data\Panasonic\200Hz - 200 usec pulses CO2 Snapshot J5.csv
+S,S,S,Y,2,,.\Other Files\Data\Prima\Prima 150 hz 50 percent duty 665W avg.csv
+S,S,S,Y,2,,.\Other Files\Data\Prima\Prima 200 hz 60 percent duty 5000W CW power avg.csv
+S,S,S,Y,2,,.\Other Files\Data\Prima\Prima 50 hz 50 percent duty 1830W avg.csv
+S,S,S,Y,2,,.\Other Files\Data\Prima\Prima 50 hz 50 percent duty 2654W avg.csv
+S,S,S,Y,2,,.\Other Files\Data\Prima\Prima 50 hz 50 percent duty 3190W avg.csv
+S,S,S,Y,2,,.\Other Files\Data\Sony\Buffer1.csv
+S,S,S,Y,2,,.\Other Files\Data\Sony\Buffer2.csv
+S,S,S,Y,2,,.\Other Files\Data\Sony\Buffer3.csv
+N,N,N,N,0,,.\Other Files\jb\001 10ms single shot 20150515-1_truncated.csv
+S,S,S,Y,2,,.\Other Files\jb\1 kHz - 500 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\jb\10 kHz - 10 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\jb\10 kHz - 15 usec pulses CO2 Snapshot J5.csv
+S,S,S,Y,1,,.\Other Files\jb\100 Hz - 1 msec pulses - 5W avg power - CO2 Snapshot (2).csv
+S,S,S,Y,1,,.\Other Files\jb\100 Hz - 1 msec pulses - 5W avg power - CO2 Snapshot.csv
+S,S,S,Y,1,,.\Other Files\jb\100W 30 ms long pulse-810 nm High Speed Mode (2).csv
+S,S,S,Y,1,,.\Other Files\jb\100W 30 ms long pulse-810 nm High Speed Mode.csv
+S,S,S,Y,1,,.\Other Files\jb\150W.csv
+S,S,S,Y,1,,.\Other Files\jb\18.1.csv
+S,S,S,Y,1,,.\Other Files\jb\18.2.csv
+S,S,S,Y,1,,.\Other Files\jb\18.3.csv
+S,S,S,Y,1,,.\Other Files\jb\18.4.csv
+S,S,S,Y,1,,.\Other Files\jb\18.42W.csv
+S,S,S,Y,1,,.\Other Files\jb\19.1.csv
+S,S,S,Y,1,,.\Other Files\jb\21.1.csv
+S,S,S,Y,1,,.\Other Files\jb\21.2.csv
+S,S,S,Y,1,,.\Other Files\jb\24.1.csv
+S,S,S,Y,1,,.\Other Files\jb\24.2.csv
+S,S,S,Y,1,,.\Other Files\jb\24.3.csv
+S,S,S,Y,1,,.\Other Files\jb\24.4.csv
+S,S,S,Y,1,,.\Other Files\jb\25.1.csv
+S,S,S,Y,1,,.\Other Files\jb\25.2.csv
+S,S,S,Y,1,,.\Other Files\jb\26.1.csv
+S,S,S,Y,1,,.\Other Files\jb\28.1.csv
+S,S,S,Y,2,,.\Other Files\jb\5 kHz - 50 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\jb\8 kHz - 10 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\jb\8 kHz - 50 usec pulses CO2 Snapshot.csv
+S,S,S,Y,2,,.\Other Files\jb\90Hz (2).csv
+S,S,S,Y,2,,.\Other Files\jb\90Hz-Quad.csv
+S,S,S,Y,2,,.\Other Files\jb\90Hz.csv
+S,S,S,Y,2,,.\Other Files\jb\All.csv
+S,S,S,Y,2,,.\Other Files\jb\All1.csv
+S,S,S,Y,1,,.\Other Files\jb\auto.csv
+S,S,S,Y,2,,.\Other Files\jb\baseline5.csv.csv
+S,S,S,Y,2,,.\Other Files\jb\baseline6.csv.csv
+S,S,S,Y,1,,.\Other Files\jb\binary.csv
+S,S,S,Y,2,,.\Other Files\jb\Buffer.csv.csv
+S,S,S,Y,2,,.\Other Files\jb\Candela 6.csv
+S,S,S,Y,2,,.\Other Files\jb\CountMean6.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip1.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip10.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip11.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip12.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip13.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip14.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip15.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip16.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip17.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip18.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip19.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip2.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip20.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip21.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip22.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip23.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip24.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip241.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip243.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip244.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip25.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip26.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip27.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip28.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip29.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip3.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip31.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip32.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip33.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip37.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip38.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip39.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip4.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip40.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip41.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip410.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip411.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip412.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip413.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip414.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip4141.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip4142.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip4143.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip4144.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip41441.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip41442.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip41443.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip41444.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip42.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip43.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip44.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip45.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip46.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip47.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip48.csv
+N,N,N,N,0,,.\Other Files\jb\CountSkip49.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip5.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip6.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip7.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip8.csv
+S,S,S,Y,2,,.\Other Files\jb\CountSkip9.csv
+N,N,N,N,0,,.\Other Files\jb\Dashboard.csv
+S,S,S,Y,1,,.\Other Files\jb\data (2).csv
+N,N,N,N,0,,.\Other Files\jb\data (3).csv
+N,N,N,N,0,,.\Other Files\jb\data (4).csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-19-2014 6.11.59 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-20-2014 2.06.59 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-20-2014 2.16.56 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-20-2014 2.36.54 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-20-2014 2.40.04 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-20-2014 3.05.42 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-24-2014 4.18.38 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-24-2014 4.28.43 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-24-2014 5.14.58 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 2-24-2014 7.00.01 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-24-2014 7.14.34 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-25-2014 7.33.14 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-25-2014 7.33.31 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 2-26-2014 2.35.23 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 2-27-2014 7.46.24 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 2-28-2014 4.17.10 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 2-28-2014 4.22.20 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 2-28-2014 5.38.36 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 2-28-2014 6.41.00 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 2-28-2014 6.45.31 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 2-28-2014 6.45.37 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-17-2014 12.28.44 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-17-2014 3.22.00 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-17-2014 3.40.37 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-17-2014 3.41.12 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-17-2014 4.34.36 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-17-2014 4.44.19 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-17-2014 4.46.26 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-17-2014 4.51.40 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-17-2014 4.58.41 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-17-2014 5.02.50 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-17-2014 5.06.55 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-17-2014 5.08.17 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-18-2014 1.03.20 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-18-2014 1.03.33 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-18-2014 1.04.46 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-18-2014 1.06.48 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-18-2014 1.07.19 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-18-2014 1.10.41 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-18-2014 1.11.51 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-18-2014 1.16.35 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-18-2014 1.21.06 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-18-2014 4.48.01 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-18-2014 4.48.26 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-18-2014 4.48.53 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-3-2014 1.35.47 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.11 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.12 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.13 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.14 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.15 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.16 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.17 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.18 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.19 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.20 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.21 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.22 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.23 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.24 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.36.25 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.31 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.32 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.33 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.34 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.35 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.36 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.37 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.38 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.39 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.40 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.41 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.42 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.43 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.44 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.45 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.46 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.47 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.48 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.49 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.50 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.51 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.52 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.53 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.54 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.55 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.56 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.57 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.58 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.37.59 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.00 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.01 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.02 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.03 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.04 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.05 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.06 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.07 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.08 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.09 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.11 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.12 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.13 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.14 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.15 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.16 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.18 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.19 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.20 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.21 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.23 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.24 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.25 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.27 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.28 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.30 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.31 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.33 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.34 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.36 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.37 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.39 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.40 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.42 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.44 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.45 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.47 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.49 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.50 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.52 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.54 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.56 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.58 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.38.59 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.01 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.03 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.05 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.07 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.09 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.11 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.13 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.15 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.17 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.20 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.22 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.24 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.26 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.28 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.30 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.32 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.35 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.37 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.39 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.42 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.45 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.47 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.50 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.52 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.55 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.39.58 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.40.00 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.40.03 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-3-2014 5.40.06 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.27 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.28 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.29 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.30 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.31 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.32 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.33 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.34 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.35 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.36 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.37 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.38 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.39 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.40 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.41 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 3-5-2014 2.10.42 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.43 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.44 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.45 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.46 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.47 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.48 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.49 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.50 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.51 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.52 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.53 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.54 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.55 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.56 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.57 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.58 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.36.59 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.00 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.01 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.02 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.03 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.04 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.05 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.06 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.07 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.08 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.09 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.10 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.11 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.12 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.13 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.14 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.15 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.16 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.17 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.18 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.19 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.20 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.21 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.23 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.24 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.25 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.26 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.27 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.28 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.30 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.31 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.32 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.34 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.35 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.36 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.38 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.39 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.40 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.42 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.43 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.45 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.46 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.47 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.49 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.51 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.52 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.54 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.55 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.57 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.37.59 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.00 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.02 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.04 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.06 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.07 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.09 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.11 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.13 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.15 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.16 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.18 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.20 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.22 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.24 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.26 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.29 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.31 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.33 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.35 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.37 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.39 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.41 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.44 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.46 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.48 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.50 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.52 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.55 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.38.57 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.00 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.02 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.05 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.07 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.09 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.12 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.14 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.17 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.20 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.23 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.25 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.28 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.31 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.34 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.36 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.39 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.42 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.45 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.47 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.50 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.53 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.56 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.39.59 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.02 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.05 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.08 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.11 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.14 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.17 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.20 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.24 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.27 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.30 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.34 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.37 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.41 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.44 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.48 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.51 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.54 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.40.58 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.41.01 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.41.04 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.41.08 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.41.12 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.41.16 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.41.19 PM.csv
+S,S,S,Y,1,,.\Other Files\jb\Data 3-5-2014 5.41.23 PM.csv
+N,N,N,N,0,,.\Other Files\jb\Data 5-14-2014 6.22.58 PM.csv
+S,S,S,Y,2,,.\Other Files\jb\Data.csv
+N,N,N,N,0,,.\Other Files\jb\DataFile.csv
+N,N,N,N,0,,.\Other Files\jb\DJIA.csv
+N,N,N,N,0,,.\Other Files\jb\DJIAD.csv
+N,N,N,N,0,,.\Other Files\jb\DJIAM.csv
+S,S,S,Y,2,,.\Other Files\jb\energy-fixed.csv
+S,S,S,Y,2,,.\Other Files\jb\energy-old format.csv
+S,S,S,Y,2,,.\Other Files\jb\energy.csv
+S,S,S,Y,2,,.\Other Files\jb\energy1.csv
+S,S,S,Y,2,,.\Other Files\jb\energy2 (2).csv
+S,S,S,Y,2,,.\Other Files\jb\energy2 (3).csv
+S,S,S,Y,2,,.\Other Files\jb\energy2.csv
+S,S,S,Y,2,,.\Other Files\jb\energyA.csv
+N,N,N,N,0,,.\Other Files\jb\EnergyMax energy comma.csv
+N,N,N,N,0,,.\Other Files\jb\ErrorMessages.csv
+N,N,N,N,0,,.\Other Files\jb\EURUSD_Daily.csv
+N,N,N,N,0,,.\Other Files\jb\EURUSD_Hourly.csv
+S,S,S,Y,2,,.\Other Files\jb\Every1000Mean.csv
+S,S,S,Y,2,,.\Other Files\jb\Every1000Mean1.csv
+S,S,S,Y,2,,.\Other Files\jb\Every1000Skip1.csv
+N,N,N,N,0,,.\Other Files\jb\ExampleData.csv
+S,S,S,Y,2,,.\Other Files\jb\ExamplePyro.csv
+S,S,S,Y,2,,.\Other Files\jb\ExamplePyro2.csv
+S,S,S,Y,2,,.\Other Files\jb\ExamplePyro3.csv
+S,S,S,Y,2,,.\Other Files\jb\Export1.csv
+S,S,S,Y,1,,.\Other Files\jb\fast-binary.csv
+S,S,S,Y,1,,.\Other Files\jb\fast-sin.csv
+S,S,S,Y,1,,.\Other Files\jb\fast-sin2.csv
+S,S,S,Y,1,,.\Other Files\jb\fast-sinx.csv
+S,S,S,Y,2,,.\Other Files\jb\fast.csv
+S,S,S,Y,2,,.\Other Files\jb\fast.tsv.csv
+S,S,S,Y,2,,.\Other Files\jb\Fast2.csv
+S,S,S,Y,1,,.\Other Files\jb\first-circ.csv
+S,S,S,Y,2,,.\Other Files\jb\first1.csv
+S,S,S,Y,2,,.\Other Files\jb\first2.csv
+S,S,S,Y,2,,.\Other Files\jb\first3.csv
+S,S,S,Y,1,,.\Other Files\jb\fixed1.csv
+S,S,S,Y,1,,.\Other Files\jb\fixed2.csv
+S,S,S,Y,1,,.\Other Files\jb\fixed3.csv
+S,S,S,Y,1,,.\Other Files\jb\fixed4.csv
+S,S,S,Y,1,,.\Other Files\jb\fri2.csv
+S,S,S,Y,2,,.\Other Files\jb\GEM100@1KHz_100uSec_Pulsewidth (2).csv
+S,S,S,Y,2,,.\Other Files\jb\GEM100@1KHz_100uSec_Pulsewidth (3).csv
+S,S,S,Y,2,,.\Other Files\jb\GEM100@1KHz_100uSec_Pulsewidth.csv
+S,S,S,Y,2,,.\Other Files\jb\GEM100@25KHz_20uSec_Pulsewidth_PreTrig_11mSec (2).csv
+S,S,S,Y,2,,.\Other Files\jb\GEM100@25KHz_20uSec_Pulsewidth_PreTrig_11mSec.csv
+S,S,S,Y,2,,.\Other Files\jb\GEM100@25KHz_20uSec_Pulsewidth_PreTrig_11mSec_Truncated (2).csv
+S,S,S,Y,2,,.\Other Files\jb\GEM100@25KHz_20uSec_Pulsewidth_PreTrig_11mSec_Truncated.csv
+S,S,S,Y,1,,.\Other Files\jb\glitches.csv
+S,S,S,Y,1,,.\Other Files\jb\heisenberg1.csv
+S,S,S,Y,1,,.\Other Files\jb\heisenberg2.csv
+S,S,S,Y,1,,.\Other Files\jb\heisenberg3.csv
+S,S,S,Y,2,,.\Other Files\jb\High Speed Export (2).csv
+S,S,S,Y,2,,.\Other Files\jb\High Speed Export (3).csv
+S,S,S,Y,2,,.\Other Files\jb\High Speed Export.csv
+S,S,S,Y,1,,.\Other Files\jb\high2.csv
+S,S,S,Y,2,,.\Other Files\jb\HistogramData (2).csv
+S,S,S,Y,2,,.\Other Files\jb\HistogramData (3).csv
+S,S,S,Y,2,,.\Other Files\jb\HistogramData.csv
+N,N,N,N,0,,.\Other Files\jb\HistoryDownload (1).csv
+N,N,N,N,0,,.\Other Files\jb\HistoryDownload (2).csv
+N,N,N,N,0,,.\Other Files\jb\HistoryDownload.csv
+N,N,N,N,0,,.\Other Files\jb\INDU_Daily.csv
+N,N,N,N,0,,.\Other Files\jb\inverted.csv
+N,N,N,N,0,,.\Other Files\jb\inverted2.csv
+S,S,S,Y,2,,.\Other Files\jb\JB's Energy WIP.csv
+S,S,S,Y,2,,.\Other Files\jb\JB's LM3 energy.csv
+N,N,N,N,0,,.\Other Files\jb\LabMax app energy comma.csv
+N,N,N,N,0,,.\Other Files\jb\LabMax app power quad comma.csv
+N,N,N,N,0,,.\Other Files\jb\LabMax app power single comma.csv
+Y,S,S,N,1,,.\Other Files\jb\LabMax onboard energy comma.csv
+Y,S,S,N,1,,.\Other Files\jb\LabMax onboard power quad comma.csv
+Y,S,S,N,1,,.\Other Files\jb\LabMax onboard power single comma.csv
+Y,S,S,N,1,,.\Other Files\jb\Legacy-LM20.csv
+Y,S,S,N,1,,.\Other Files\jb\Legacy-PM30.csv
+Y,S,S,N,1,,.\Other Files\jb\LegacyEnergy.csv
+S,S,S,Y,2,,.\Other Files\jb\lines.csv
+N,N,N,N,0,,.\Other Files\jb\LM Data.csv
+S,S,S,Y,2,,.\Other Files\jb\LM-3 bogus x,y.csv
+S,S,S,Y,2,,.\Other Files\jb\LM-3.csv
+S,S,S,Y,2,,.\Other Files\jb\LM20 sample (2).csv
+Y,S,S,N,1,,.\Other Files\jb\LM20 Sample (3).csv
+Y,S,S,N,1,,.\Other Files\jb\LM20 Sample (4).csv
+Y,S,S,N,1,,.\Other Files\jb\LM20 Sample (5).csv
+Y,S,S,N,1,,.\Other Files\jb\LM20 Sample (6).csv
+Y,S,S,N,1,,.\Other Files\jb\LM20 Sample (7).csv
+Y,S,S,N,1,,.\Other Files\jb\LM20 Sample (8).csv
+Y,S,S,N,1,,.\Other Files\jb\LM20 Sample (9).csv
+S,S,S,Y,2,,.\Other Files\jb\LM20 sample.csv
+S,S,S,Y,2,,.\Other Files\jb\LM3 energy.csv
+S,S,S,Y,2,,.\Other Files\jb\LM3 lpem.csv
+S,S,S,Y,2,,.\Other Files\jb\Log1.csv
+S,S,S,Y,2,,.\Other Files\jb\Log2.csv
+S,S,S,Y,2,,.\Other Files\jb\Log3.csv
+S,S,S,Y,2,,.\Other Files\jb\Log4.csv
+S,S,S,Y,2,,.\Other Files\jb\Log41.csv
+S,S,S,Y,2,,.\Other Files\jb\Log42.csv
+S,S,S,Y,2,,.\Other Files\jb\Log5.csv
+S,S,S,Y,2,,.\Other Files\jb\Log6.csv
+S,S,S,Y,1,,.\Other Files\jb\M22-3 2ms long pulses-5ms-spacing-8K saples-JJ.csv
+S,S,S,Y,2,,.\Other Files\jb\Mean40.csv
+S,S,S,Y,2,,.\Other Files\jb\Mean4Sec.csv
+N,N,N,N,0,,.\Other Files\jb\metadata.cpm.csv
+S,S,S,Y,1,,.\Other Files\jb\missing.csv
+S,S,S,Y,1,,.\Other Files\jb\missing2.csv
+S,S,S,Y,1,,.\Other Files\jb\missing3.csv
+S,S,S,Y,1,,.\Other Files\jb\missing4.csv
+S,S,S,Y,1,,.\Other Files\jb\missing5.csv
+S,S,S,Y,2,,.\Other Files\jb\new-one.csv
+S,S,S,Y,1,,.\Other Files\jb\new1.csv
+S,S,S,Y,1,,.\Other Files\jb\new2.csv
+S,S,S,Y,1,,.\Other Files\jb\new3.csv
+S,S,S,Y,1,,.\Other Files\jb\new4 (2).csv
+N,N,N,N,0,,.\Other Files\jb\New4.csv
+S,S,S,Y,1,,.\Other Files\jb\new5.csv
+S,S,S,Y,1,,.\Other Files\jb\nmark4.csv
+N,N,N,N,0,,.\Other Files\jb\o (2).csv
+N,N,N,N,0,,.\Other Files\jb\o.csv
+N,N,N,N,0,,.\Other Files\jb\OhlcData.csv
+S,S,S,Y,1,,.\Other Files\jb\optic1.csv
+S,S,S,Y,1,,.\Other Files\jb\optic2.csv
+N,N,N,N,0,,.\Other Files\jb\Personnel.csv
+N,N,N,N,0,,.\Other Files\jb\Personnel_LINQ.csv
+S,S,S,Y,1,,.\Other Files\jb\phoenix_export_file3.csv
+Y,S,S,N,1,,.\Other Files\jb\PM10 Sample (2).csv
+Y,S,S,N,1,,.\Other Files\jb\PM10 Sample (3).csv
+Y,S,S,N,1,,.\Other Files\jb\PM10 Sample (4).csv
+Y,S,S,N,1,,.\Other Files\jb\PM10 Sample (5).csv
+Y,S,S,N,1,,.\Other Files\jb\PM10 Sample (6).csv
+Y,S,S,N,1,,.\Other Files\jb\PM10 Sample.csv
+S,S,S,Y,2,,.\Other Files\jb\pm10-energy.csv
+S,S,S,Y,2,,.\Other Files\jb\pmpro-energy.csv
+S,S,S,Y,2,,.\Other Files\jb\power-fixed.csv
+S,S,S,Y,2,,.\Other Files\jb\power1.csv
+N,N,N,N,0,,.\Other Files\jb\PowerMax power quad comma.csv
+N,N,N,N,0,,.\Other Files\jb\PowerMax power single comma.csv
+S,S,S,Y,1,,.\Other Files\jb\pulse1.csv
+S,S,S,Y,1,,.\Other Files\jb\pulse2.csv
+S,S,S,Y,1,,.\Other Files\jb\pulses.csv
+S,S,S,Y,1,,.\Other Files\jb\Pulses1.csv
+S,S,S,Y,2,,.\Other Files\jb\pyro-energy.csv
+Y,S,S,N,1,,.\Other Files\jb\QuadUnitTest (2).csv
+Y,S,S,N,1,,.\Other Files\jb\QuadUnitTest.csv
+S,S,S,Y,1,,.\Other Files\jb\sample3-out.csv
+S,S,S,Y,1,,.\Other Files\jb\sample3.csv
+S,S,S,Y,1,,.\Other Files\jb\sample4.csv
+S,S,S,Y,1,,.\Other Files\jb\sample5.csv
+S,S,S,Y,1,,.\Other Files\jb\sample5a.csv
+S,S,S,Y,2,,.\Other Files\jb\Sean's precision problem.csv
+S,S,S,Y,2,,.\Other Files\jb\Skip4Sec.csv
+S,S,S,Y,2,,.\Other Files\jb\slow.csv
+S,S,S,Y,2,,.\Other Files\jb\slow.tsv.csv
+S,S,S,Y,1,,.\Other Files\jb\snap.csv
+S,S,S,Y,2,,.\Other Files\jb\snap1.csv
+S,S,S,Y,1,,.\Other Files\jb\snap2.csv
+S,S,S,Y,2,,.\Other Files\jb\snapshot 10K (2).csv
+S,S,S,Y,2,,.\Other Files\jb\snapshot 10K.csv
+S,S,S,Y,2,,.\Other Files\jb\SnapshotSineWave (2).csv
+S,S,S,Y,2,,.\Other Files\jb\SnapshotSineWave (3).csv
+S,S,S,Y,2,,.\Other Files\jb\SnapshotSineWave.csv
+S,S,S,Y,1,,.\Other Files\jb\Spikes.csv
+S,S,S,Y,2,,.\Other Files\jb\Standard Mode with HD Sensor (2).csv
+S,S,S,Y,2,,.\Other Files\jb\Standard Mode with HD Sensor.csv
+S,S,S,Y,2,,.\Other Files\jb\test 7 - 24 J - 20 ms -  810.csv
+S,S,S,Y,2,,.\Other Files\jb\test 8 - 5 shots - 400 ms J (2).csv
+S,S,S,Y,2,,.\Other Files\jb\test 8 - 5 shots - 400 ms J.csv
+S,S,S,Y,2,,.\Other Files\jb\Test2.csv
+S,S,S,Y,1,,.\Other Files\jb\thu1.csv
+S,S,S,Y,2,,.\Other Files\jb\TimeMean3.csv
+S,S,S,Y,2,,.\Other Files\jb\TimeSkip1.csv
+S,S,S,Y,1,,.\Other Files\jb\v19A.csv
+S,S,S,Y,1,,.\Other Files\jb\v19B.csv
+S,S,S,Y,1,,.\Other Files\jb\wed1.csv
+S,S,S,Y,1,,.\Other Files\jb\wed2.csv
+S,S,S,Y,1,,.\Other Files\jb\wed3.csv
+S,S,S,Y,2,,.\Other Files\jb\Zeroed Diff-Amp 2.csv
+S,S,S,Y,2,,.\Other Files\jb\Zeroed Diff-Amp.csv
+S,S,S,Y,2,,.\Questionable files\first1.csv
+S,S,S,Y,2,,.\Questionable files\first2.csv
+S,S,S,Y,2,,.\Questionable files\first3.csv
+S,S,S,Y,2,,.\Questionable files\Test2.csv
+S,S,S,Y,2,,.\Special Files\PM-pro erbi 2100nm.csv
+S,S,S,Y,2,,.\Special Files\PM-pro erbi pulse.csv
+S,S,S,Y,2,,.\Special Files\PM-pro erbi pulse_2.csv
+S,S,S,Y,2,,.\Special Files\PM30 erbi pulse.csv
+S,S,S,Y,2,,.\Special Files\PM30 erbi pulse_2.csv

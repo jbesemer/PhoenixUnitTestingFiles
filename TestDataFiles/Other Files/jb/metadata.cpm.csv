@@ -1,0 +1,5 @@
+; we use both CESYSGEN tags and explicit mappings to ensure that these
+; components and their registry keys ALWAYS end up in the Metadata package
+default.hv,Metadata
+user.hv,Metadata
+defaultcerts.dat,Metadata
