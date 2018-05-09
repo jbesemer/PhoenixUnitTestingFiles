@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PhoenixConnection Version="1.5.0.0 DEBUG" Date="4/9/2016 8:11 PM">
 	<Meter>
-		<SnapshotMode IsDataContract="true">
-			<Active>
-				<Active>True</Active>
-			</Active>
-			<Capacity>
-				<Capacity>1200</Capacity>
-			</Capacity>
-			<PreTrigger>
-				<PreTrigger>200</PreTrigger>
-			</PreTrigger>
-		</SnapshotMode>
 		<OperatingMode>
 			<OperatingMode>PowerWatts</OperatingMode>
 		</OperatingMode>
@@ -76,7 +65,7 @@
 			<Decimation_Enabled>False</Decimation_Enabled>
 		</Decimation_Enabled>
 		<DecimationRate>
-			<DecimationRate>0</DecimationRate>
+			<DecimationRate>2</DecimationRate>
 		</DecimationRate>
 		<SmoothingEnabled>
 			<SmoothingEnabled>False</SmoothingEnabled>

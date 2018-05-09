@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PhoenixConnection Version="1.5.0.0 DEBUG" Date="4/9/2016 8:11 PM">
 	<Meter>
-		<SnapshotMode IsDataContract="true">
-			<Active>
-				<Active>True</Active>
-			</Active>
-			<Capacity>
-				<Capacity>1200</Capacity>
-			</Capacity>
-			<PreTrigger>
-				<PreTrigger>200</PreTrigger>
-			</PreTrigger>
-		</SnapshotMode>
 		<OperatingMode>
 			<OperatingMode>PowerWatts</OperatingMode>
 		</OperatingMode>
@@ -40,7 +29,7 @@
 			<FpgaAveragingId>11</FpgaAveragingId>
 		</FpgaAveragingId>
 		<TriggerLevel>
-			<TriggerLevel>0</TriggerLevel>
+			<TriggerLevel>0.0</TriggerLevel>
 		</TriggerLevel>
 		<TriggerSource>
 			<TriggerSource>Internal</TriggerSource>
