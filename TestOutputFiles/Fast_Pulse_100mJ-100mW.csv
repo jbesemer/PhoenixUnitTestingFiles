@@ -1,6 +1,6 @@
-Meter S/N:, Dummy123
-Sensor, Thermo, None
-Date, 2/8/2017 3:49:53 PM
+Meter S/N:
+Sensor, , 
+Date
 Units, W
 Cursor, 0.1000448, 0.2000896, 0.90000000, -0.10000000
 Timestamp, Measurement, Sequence, Flags, FlagsInterpreted, Period
