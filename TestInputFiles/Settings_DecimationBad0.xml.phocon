@@ -5,7 +5,7 @@
 			<Decimation_Enabled>False</Decimation_Enabled>
 		</Decimation_Enabled>
 		<DecimationRate>
-			<DecimationRate>1</DecimationRate>
+			<DecimationRate>0</DecimationRate>
 		</DecimationRate>
 	</Meter>
 	<PreviewBufferController>
