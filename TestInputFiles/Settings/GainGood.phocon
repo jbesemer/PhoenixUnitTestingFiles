@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PhoenixConnection Version="1.5.0.0 DEBUG" Date="4/9/2016 8:11 PM">
+	<Meter_SSIM>
+		<GainCompensation_Enabled>
+			<GainCompensation_Enabled>False</GainCompensation_Enabled>
+		</GainCompensation_Enabled>
+		<GainCompensationFactor>
+			<GainCompensationFactor>1.0</GainCompensationFactor>
+		</GainCompensationFactor>
+	</Meter_SSIM>
+	<PreviewBufferController>
+		<Period>
+			<Period>0.5</Period>
+		</Period>
+		<Capacity>
+			<Capacity>1500</Capacity>
+		</Capacity>
+	</PreviewBufferController>
+	<MeterSettingsSerializer>
+		<ScaleManagerHorizontal_Settings>
+			<ScaleManagerHorizontal_Settings>1;-∞;∞;</ScaleManagerHorizontal_Settings>
+		</ScaleManagerHorizontal_Settings>
+		<ScaleManagerVertical_Settings>
+			<ScaleManagerVertical_Settings>1;-∞;∞;</ScaleManagerVertical_Settings>
+		</ScaleManagerVertical_Settings>
+		<ScaleManagerTuning_Settings>
+			<ScaleManagerTuning_Settings>1;0;∞;</ScaleManagerTuning_Settings>
+		</ScaleManagerTuning_Settings>
+	</MeterSettingsSerializer>
+</PhoenixConnection>

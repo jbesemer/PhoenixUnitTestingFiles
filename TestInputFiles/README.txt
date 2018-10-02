@@ -2,7 +2,7 @@ This TestInputFiles is for files input by the UnitTests.
 
 These files are maintained in SVN in synch with the corresponding test source code, located elsewhere in this UnitTesting project.
 
-If you write a test that relies on a particular input file, place that file in this folder (carefully choosing a name that doesn't conflict with the ones already there), and check it into to SVN.
+If you write a test that relies on a particular input file, place that file in this folder, or a subfolder (carefully choosing a name that doesn't conflict with the ones already there), and check it into to SVN.
 
 The exception to this rule is with huge input files. Those should be placed in ../TestDataFiles. You should NOT write tests that relies on huge files unless you also mark it [Explicit]. See BulkImportTesting.cs for examples. Generally, large files are more relevant to Stress Testing, than Unit Testing, so avoid writing unit tests that rely on huge files. If you want to mess with huge files or large numbers of them, rather go extend BulkFileImportTesting instead of the main unit tests.
 

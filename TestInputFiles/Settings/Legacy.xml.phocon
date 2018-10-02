@@ -59,7 +59,7 @@
 			<GainCompensation_Enabled>False</GainCompensation_Enabled>
 		</GainCompensation_Enabled>
 		<GainCompensationFactor>
-			<GainCompensationFactor>0.00099</GainCompensationFactor>
+			<GainCompensationFactor>1</GainCompensationFactor>
 		</GainCompensationFactor>
 		<Decimation_Enabled>
 			<Decimation_Enabled>False</Decimation_Enabled>
@@ -104,5 +104,13 @@
 		<ScaleManagerTuning_Settings>
 			<ScaleManagerTuning_Settings>1;0;∞;</ScaleManagerTuning_Settings>
 		</ScaleManagerTuning_Settings>
+		<PreviewBufferController IsDataContract="true">
+			<Period>
+				<Period>0.5</Period>
+			</Period>
+			<Capacity>
+				<Capacity>1500</Capacity>
+			</Capacity>
+		</PreviewBufferController>
 	</MeterSettingsSerializer>
 </PhoenixConnection>
