@@ -1,0 +1,18 @@
+
+0	Header	[1]	00  .
+0	Remark	[83]	THERMO,QUAD, PM USB - LM-3, 0320D17R, EnergyJoules+Continuous, 10/9/2018 1:26:47 PM
+0	Settings	[588]	{\r\n  "MeterClassTypeName": "Meter_MP",\r\n  "DAQ_Mode": 3,\r\n  "IsLegacyMeterless": true,\r\n  "OperatingMode": 2,\r\n  "Capacity": 50000,\r\n  "PreTrigger": 0,\r\n  "ContinuousMode": true,\r\n  "SelectedDataEncoding": 0,\r\n  "SelectedUnitsSerialization": "J",\r\n  "SelectedDataFields": 23,\r\n  "SnapshotMode_IsSelected": false,\r\n  "WaitForTriggerModeEnabled": false,\r\n  "HighSpeedChannel_IsSelected": false,\r\n  "SamplePeriod": 1000000,\r\n  "Sensor_IsPyro": false,\r\n  "SamplePeriod_Ticks": 1000000,\r\n  "QuadMode_IsSelected": true,\r\n  "OperatingMode_IsTrueEnergy": true,\r\n  "SnapshotMaxCapacity": 240000\r\n}
+0	Command	[18]	SYST:COMM:HAND OFF
+51	Command	[15]	SYST:COMM:HAND?
+51	Command	[3]	OFF
+51	Command	[4]	INIT
+9537	Data	[18]	32 2e 39 33 38 38 32 65 2d 30 31 2c 4e 2c 39 35 30 30  2.93882e-01,N,9500
+19335	Data	[19]	34 2e 34 38 35 37 30 65 2d 30 31 2c 30 2c 31 39 33 30 30  4.48570e-01,0,19300
+27738	Data	[19]	33 2e 37 36 34 33 38 65 2d 30 31 2c 30 2c 32 37 37 30 30  3.76438e-01,0,27700
+37735	Data	[19]	31 2e 32 34 39 39 30 65 2d 30 31 2c 30 2c 33 37 37 30 30  1.24990e-01,0,37700
+46796	Command	[5]	ABORT
+47140	Command	[17]	SYST:COMM:HAND ON
+47141	Command	[2]	OK
+47141	Command	[27]	CONF:ITEM MEAS,POS,FLAG,TST
+47142	Command	[2]	OK
+47144	Remark	[14]	Elapsed: 47144
