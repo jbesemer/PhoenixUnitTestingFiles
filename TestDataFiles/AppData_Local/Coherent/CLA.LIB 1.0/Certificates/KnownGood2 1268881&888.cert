@@ -1,0 +1,15 @@
+------- Start of Certificate Text -------
+
+  PartNumber:   1268881
+  Description:   LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+  Application:   CMC 1.0
+
+  Serial:         888
+  Features:    Pulse Analysis (1340622), Limits and Alarms (1340623)
+  OS:           Unrestricted
+  Expiration:  On 7/5/2018
+  Signature:  Y0vdbVieufMB3gFOWka3NDxkSuURc0+pv+aNYe87G5uNgXBKFQCe4sW857BJyIAWMIRhf9eIaVbbE1nk+OSiYBA=
+
+------- End of Certificate Text -------
+# Extra whitespace doesn't matter (in certain contexts, all of which are exhibited here;
+# the remaining single spaces cannot be changed without affecting the signature)
