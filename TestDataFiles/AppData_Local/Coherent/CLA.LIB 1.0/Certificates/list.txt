@@ -1,0 +1,364 @@
+------- Start of Certificate Text -------
+PartNumber: 1174263
+Description: LMC 1174263 PowerMax USB - PM3 Power Sensor
+Application: CMC
+Serial: 888
+Features: PowerMax-USB/RS Compatibility (1340621), Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 2/28/2019
+Signature: ZWqV9ZzhQXJeafNgtRqEYqwCzz1603YTc5THxLvP7zvUpak5IxY3ncwgTuYrHM90MIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+------- Start of Certificate Text -------
+PartNumber: 1168339
+Description: LMC 1168339 PowerMax USB - LM-3 Power Sensor
+Application: CMC
+Serial: 888
+Features: PowerMax-USB/RS Compatibility (1340621), Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 2/28/2019
+Signature: hZCMmeEpHWbS8YrbGL5NLFpNfS0uTx04mOzhbYZvYt3CsLYFerfZIu1AWojAWtCdMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+------- Start of Certificate Text -------
+PartNumber: 1191435
+Description: LMC 1191435 EnergyMax USB J-10MB-LE Energy Sensor (RoHS)
+Application: CMC
+Serial: 888
+Features: EnergyMax-USB/RS Compatibility (1347058)
+OS: Unrestricted
+Expiration: On 2/28/2019
+Signature: i9mlwsPJhgh8thH4LNry9+evReVRVPhXBGc0GBKmuc6bexts/et4JQGAOUZV5V7vMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+------- Start of Certificate Text -------
+PartNumber: 1174263
+Description: LMC 1174263 PowerMax USB - PM3 Power Sensor
+Application: CMC
+Serial: 777
+Features: PowerMax-USB/RS Compatibility (1340621), Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Signature: bCEzyCgY2zZI7rN0csSiWn4ASUIIviSbAfUj1AoqaUOj/o0kD0edXxKp+DgJvrq0MIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+------- Start of Certificate Text -------
+PartNumber: 1168339
+Description: LMC 1168339 PowerMax USB - LM-3 Power Sensor
+Application: CMC
+Serial: 777
+Features: PowerMax-USB/RS Compatibility (1340621), Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Signature: O+IDrufQudwT+mzHe49ZzW0Nvp7TtVZonZywc/mTMYnQcP7fpx0cNyWFxxXghn+WMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+------- Start of Certificate Text -------
+PartNumber: 1191435
+Description: LMC 1191435 EnergyMax USB J-10MB-LE Energy Sensor (RoHS)
+Application: CMC
+Serial: 777
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623), EnergyMax-USB/RS Compatibility (1347058)
+OS: Unrestricted
+Signature: RDxzUoYamb3NSWFxAT1uDptT7h3Yp2gNg/pb9bmJXPDnMe9oaKAxPmMgrVcoucE+MIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+
+
+1168348&0173I13R&1.cert
+------- Start of Certificate Text -------
+PartNumber: 1168348
+Description: LMC 1168348 PowerMax USB - PM150-50C Power Sensor
+Application: CMC 1.0
+Serial: 0173I13R
+Features: PowerMax-USB/RS Compatibility (1340621), Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Signature: g1KMhkkCQ0IR0agO/ldmOfIx41P0AC9H5bIEaqaE1kItmpuiCPGjwabw+BnKvJdrMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1168348&0173I13R&2.cert
+------- Start of Certificate Text -------
+PartNumber: 1168348
+Description: LMC 1168348 PowerMax USB - PM150-50C Power Sensor
+Application: CMC 1.0
+Serial: 0173I13R
+Features: PowerMax-USB/RS Compatibility (1340621)
+OS: Unrestricted
+Signature: bed9OdrIuweuBK33s7WOB9iJoJK5jiM38tcgH/0f0uMAptsbgo11n8NBBsTUY6iIMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1174261&0758H14R&1.cert
+------- Start of Certificate Text -------
+PartNumber: 1174261
+Description: LMC 1174261 PowerMax USB - PS19 Power Sensor
+Application: CMC 1.0
+Serial: 0758H14R
+Features: PowerMax-USB/RS Compatibility (1340621), Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Signature: CyC7vxTAwUjydu8sOgR5Prm1HDxL0LJlDwYAiDyEaVzNVY36f4kRtIEG6zXDfOcbMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1174263&0608J16R&1.cert
+------- Start of Certificate Text -------
+PartNumber: 1174263
+Description: LMC 1174263 PowerMax USB - PM3 Power Sensor
+Application: CMC 1.0
+Serial: 0608J16R
+Features: PowerMax-USB/RS Compatibility (1340621), Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Signature: SsfyCd5m8KKThv0NDIS+FR7yMYNcfk7Lv09s13yV79UHF9e4Xdbrj4OBRs4ePA7aMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1212310&ENB307&1.cert
+------- Start of Certificate Text -------
+PartNumber: 1212310
+Description: LMC 1212310 PowerMax USB - Wand UV/VIS Quantum Power Sensor
+Application: CMC 1.0
+Serial: ENB307
+Features: PowerMax-USB/RS Compatibility (1340621), Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Signature: EcyECki+ksEMQu+VqZl71LedKXl9bAstzlcpdacuxm1SnmCEdr833jalojnUUtfSMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1212310&ENGINEERING2&1.cert
+------- Start of Certificate Text -------
+PartNumber: 1212310
+Description: LMC 1212310 PowerMax USB - Wand UV/VIS Quantum Power Sensor
+Application: CMC 1.0
+Serial: ENGINEERING2
+Features: PowerMax-USB/RS Compatibility (1340621), Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Signature: YDJDTz1ve19j/vHCbaqBQzAgg0CvbtG/mbat1MVsSkfAKRr09EKvp0pKwI2unXVnMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1268881&000&1.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 000
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Signature: VgY3xWQ9sRclGbLC8lWNAbqdMMutWeXULcEy2DfcTYhlNL6/I+UhpbT9mwOUbRudMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1268881&001&1.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 001
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 7/18/2018
+Signature: ZFmcoW11CSPuwDVwVvSK4unxdgZobLgO4VhAlW4HI/+E70t4FaqT4bKOysSuFf4EMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1268881&001&2.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 001
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 7/2/2018
+Signature: fmjLIwDXdo+90Q/oae7svHhWJFxWqPTIOcJOmHr4K55BJdlhNzn0OIWKgQR//Yw1MIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1268881&002&1.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 002
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 7/2/2018
+Signature: l5sFgsZmXfn2nhTE9u6xZjGccSWhbrpMyjLeKrrXgP6cEA0tjObY4n3RF0qyiElAMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1268881&777&1-KnownGood.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 777
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Signature: Mu9/5cy85WFOlUjTnJWb1hPcEpeY+CBb0whkkVOFc6aOpUM9NOG09bp3MOSoOmSeMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1268881&777Bad&1-KnownBad.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 777B
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Signature: Mu9/5cy85WFOlUjTnJWb1hPcEpeY+CBb0whkkVOFc6aOpUM9NOG09bp3MOSoOmSeMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+# bad signature
+1268881&REV_FB_2&1.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC
+Serial: REV_FB_2
+Features: Pulse Analysis (1340622)
+OS: Unrestricted
+Signature: IuYR1iRO3Enm3Bxpwdk3eWhW62/Z74K4Dm7oCTCGI/GLGncpMvQ8H/KDB/GnQxIYMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1295920&001&1.cert
+------- Start of Certificate Text -------
+PartNumber: 1295920
+Description: LMC 1295920 PowerMax-Pro USB 150F HD Sensor
+Application: CMC 1.0
+Serial: 001
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 7/18/2018
+Signature: X9RWq9zYlBmW/DQjPWyu/k4L7nPNaUaAz8dMWMJziDen+jKZsPB1MmftJCW0wDbeMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1295920&998&1.cert
+------- Start of Certificate Text -------
+PartNumber: 1295920
+Description: LMC 1295920 PowerMax-Pro USB 150F HD Sensor
+Application: CMC 1.0
+Serial: 998
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 3/29/2018
+Signature: SDxGZ5mwmTUYJRnBetZ6srJgZuwxKMwGPpFBfTC04nVtxU7YBe0eVl1XGTTN9VfaMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+1295920&999&1.cert
+------- Start of Certificate Text -------
+PartNumber: 1295920
+Description: LMC 1295920 PowerMax-Pro USB 150F HD Sensor
+Application: CMC 1.0
+Serial: 999
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 6/28/2018
+Signature: QT46kD1hcHpTlnnQx4fgoDEkHjrqFKJeXta+HRoaGKTGx9vVepDBXmP214qPx54sMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+KnownBad1 1268881&888.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 888
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 7/5/2018
+Signature: Y0vdbVieufMB3gFOWka3NDxkSuURc0+pv+aNYe87G5uNgXBKFQCe4sW857BJyIAWMIRhf9eIaVbbE1nk+OSiYBA
+------- End of Certificate Text -------
+# altered signature
+
+KnownBad2 1268881&888.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 888
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration:  On 7/5/2081
+Signature: Y0vdbVieufMB3gFOWka3NDxkSuURc0+pv+aNYe87G5uNgXBKFQCe4sW857BJyIAWMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+# altered expiration date
+
+KnownBad3 1268881&888.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 8889
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 7/5/2018
+Signature: Y0vdbVieufMB3gFOWka3NDxkSuURc0+pv+aNYe87G5uNgXBKFQCe4sW857BJyIAWMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+# altered serial
+KnownBad4 1268881&888.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 888
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 7/5/2018
+Signature: Y0vdbVieufMB3gFOWka3NDxkSuURc0+pv+aNYe87G5uNgXBKFQCe4sW857BJyIAWMIRhf9eIaVbbE1nk+OSiYB
+------- End of Certificate Text -------
+# altered signature
+
+KnownBad5 1268881&888.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 888
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 7/5/2018
+Signature: Y0vdbVieufMB3gFOWka3NDxkSuURc0+pv+aNYe87G5uNgXBKFQCe4sW857BJyIAWMIRhf9eIaVbbE1nk+OSiY
+------- End of Certificate Text -------
+# altered signature
+
+KnownBad6 1268881&888.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 888
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 7/5/2018
+Signature: Y0vdbVieufMB3gFOWka3NDxkSuURc0+pv+aNYe87G5uNgXBKFQCe4sW857BJyIAWMIRhf9eIaVbb
+------- End of Certificate Text -------
+# altered signature
+
+KnownBad-z 1268881&1268881.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 1268881
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Signature: BUcoa8mt7C3I+UlG4T2SnNVm6tfB5EOlin3qOCGynQaUMfaA1Svfdgr3vXsc2xavLV1RwmQKyyyPT4e/y2jokAiNWleSgJNxQ/jve14epnAs+Y+hpwX8UGjndGdUaUS2pa9u6w6BnVOmxZpKz3P6qwKEJvik33+m3B4cSp5Twxo2JYjnC7eX973PwEclhi2KEA==
+------- End of Certificate Text -------
+# bad Encoding: .z
+KnownGood 1268881&888.cert
+------- Start of Certificate Text -------
+PartNumber: 1268881
+Description: LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+Application: CMC 1.0
+Serial: 888
+Features: Pulse Analysis (1340622), Limits and Alarms (1340623)
+OS: Unrestricted
+Expiration: On 7/5/2018
+Signature: Y0vdbVieufMB3gFOWka3NDxkSuURc0+pv+aNYe87G5uNgXBKFQCe4sW857BJyIAWMIRhf9eIaVbbE1nk+OSiYBA=
+------- End of Certificate Text -------
+
+KnownGood2 1268881&888.cert
+------- Start of Certificate Text -------
+
+  PartNumber:   1268881
+  Description:   LMC 1268881 LabMax-Pro SSIM Laser Power Meter
+  Application:   CMC 1.0
+
+  Serial:         888
+  Features:    Pulse Analysis (1340622), Limits and Alarms (1340623)
+  OS:           Unrestricted
+  Expiration:  On 7/5/2018
+  Signature:  Y0vdbVieufMB3gFOWka3NDxkSuURc0+pv+aNYe87G5uNgXBKFQCe4sW857BJyIAWMIRhf9eIaVbbE1nk+OSiYBA=
+
+------- End of Certificate Text -------
+# Extra whitespace doesn't matter (in certain contexts, all of which are exhibited here;
+# the remaining single spaces cannot be changed without affecting the signature)
+
