@@ -1,13 +1,17 @@
 {
+  "Version": "1.0",
   "Folders": {
     "Folders": [
       {
         "Foldername": "C:\\Users\\besemerj\\Documents\\GitHub\\CoherentMeterConnection\\..\\PhoenixUnitTestingFiles\\TestDataFiles\\AppData_Local\\Coherent\\CLA.LIB 1.0\\Certificates",
         "Disabled": false
+      },
+      {
+        "Foldername": "C:\\Users\\besemerj\\Documents\\GitHub\\PhoenixUnitTestingFiles\\TestDataFiles\\AppData_Local\\Coherent\\CLA.LIB 1.0\\MoreCertificates",
+        "Disabled": false
       }
     ],
-    "Count": 1
+    "Count": 2
   },
-  "PreviousLoadSaveFileDirectory": null,
-  "Version": "1.0"
+  "PreviousLoadSaveFileDirectory": null
 }
